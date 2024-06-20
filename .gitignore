@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+.Thumbs.db
+
+# Compiled artifacts
+target/
+
+# Rustfmt backup files
+**/*.rs.bk
+
+# MSVC debugging symbols
+*.pdb
